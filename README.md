@@ -54,10 +54,6 @@ A comprehensive Java desktop application for calculating loan EMI (Equated Month
 ![Down Payment Feature](screenshots/down-payment-feature.png)
 *Interface showing the down payment option enabled with percentage slider and calculated down payment amount display.*
 
-### Error Handling
-![Error Handling](screenshots/error-handling.png)
-*Example of error dialog displayed when invalid input is entered in the loan amount field.*
-
 ## 💡 How to Use
 
 1. **Enter Loan Amount** - Input the principal loan amount
