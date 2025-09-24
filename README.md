@@ -124,7 +124,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Uday Kumar**
-- GitHub: [@udaykumar0515](https://github.com/udaykumar0515)
+## 👤 Author
+
+📧 [udaykumarhaibathi@gmail.com](mailto:udaykumarhaibathi@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/uday-kumar-haibathi-311b66322)
+💻 [GitHub](https://github.com/udaykumar0515)
 
 ## 📞 Support
 
